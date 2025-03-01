@@ -1,2 +1,2 @@
 # Docify
-API-based Document Management System with folder restrictions, file uploads, metadata, and full file/folder management.
+Document Management System with APIs for folder management, file uploads with metadata, restrictions, and advanced file operations.
